@@ -1,0 +1,6 @@
+[2026-07-01 22:21:51] INFO: Live Detection Scan Launched.
+[2026-07-01 22:21:51] ALERT: Suspicious process identified -> Name: python.exe | PID: 15368 | Reason: Suspicious library or parameter found in command line: 'real_poc'
+[2026-07-01 22:21:59] REMEDIATION: Forcefully terminated suspicious PID 15368.
+[2026-07-01 22:21:59] ALERT: Suspicious process identified -> Name: python.exe | PID: 21120 | Reason: Suspicious library or parameter found in command line: 'keylogger'
+[2026-07-01 22:22:17] REMEDIATION: Forcefully terminated suspicious PID 21120.
+[2026-07-01 22:22:17] INFO: Scan Completed. Action taken on 2 threat(s).
